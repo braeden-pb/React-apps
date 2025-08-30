@@ -1,0 +1,30 @@
+.count-container {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: darkgray;
+}
+
+.count-display {
+    font-size: 15em;
+    margin-top: 0;
+    margin-bottom: 50px;
+}
+
+.count-button {
+    width: 150px;
+    height: 50px;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin: 0px 5px;
+    background-color: bisque;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.count-button:hover {
+    background-color: beige;
+}
